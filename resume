@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+
+    <img src="./assets/images/profile-photo.jpg" alt="Professional Profile Photo" height="200">
+
+    <h1>Real Estate Professional & Land Specialist</h1>
+    <hr />
+
+    <h2>Summary</h2>
+    <p>Results-driven Land Sales Consultant with a proven track record in identifying high-value acreage, navigating complex legal due diligence, and closing multi-million dollar deals. Passionate about helping clients secure their future through strategic property investment. 🌍💰</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Bachelor of Business Administration</strong> - University of Real Estate (2015 - 2019)</li>
+        <li><strong>Diploma in Land Management</strong> - Institute of Surveyors (2014)</li>
+    </ul>
+
+    <h2>Work Experience</h2>
+    <ul>
+        <li>
+            <h3>Senior Land Sales Agent - Green Acres Realty</h3>
+            <p>June 2020 - Present</p>
+            <ul>
+                <li>Managed a portfolio of over 500 acres of prime development land. 🚜</li>
+                <li>Successfully closed 50+ transactions, ensuring 100% compliance with Land Control Boards.</li>
+                <li>Developed digital marketing strategies that increased lead generation by 40%. 📱</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Junior Sales Representative - Peak Properties</h3>
+            <p>Jan 2019 - May 2020</p>
+            <ul>
+                <li>Conducted site visits and guided potential buyers through property boundaries.</li>
+                <li>Assisted in the verification of title deeds and official land searches. 🔍</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Land Valuation & Market Analysis 📊</li>
+        <li>Legal Due Diligence (Title Searching & Succession) ⚖️</li>
+        <li>Client Relationship Management (CRM) 🤝</li>
+        <li>Digital Marketing & Lead Gen #RealEstateMarketing 🚀</li>
+    </ul>
+
+    <h2>Awards & Certifications</h2>
+    <ul>
+        <li><strong>Licensed Real Estate Agent</strong> - National Board of Realtors (2021)</li>
+        <li><strong>Top Sales Agent of the Year</strong> - 2023 🏆</li>
+        <li><strong>Certification in Property Law</strong> - Online Legal Academy</li>
+    </ul>
+
+    <hr />
+
+    <nav>
+        <a href="./public/hobbies.html">My Hobbies</a> | 
+        <a href="./public/contact.html">Contact Me</a>
+    </nav>
+
+    <footer>
+        <p>© 2026 [Your Name]. All rights reserved. Registered Land Vendor. 🏠</p>
+    </footer>
+
+</body>
+</html>
